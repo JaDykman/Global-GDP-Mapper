@@ -1,0 +1,13 @@
+.bubble {
+    width: 10px; 
+    height: 10px;
+    top: 100;
+    left: 100;
+    border-radius: 50%;
+    background-color: blue;
+    position: absolute;
+    transition: background-color 0.3s;
+}
+.bubble:hover{
+    background-color: "blue";
+}
